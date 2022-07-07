@@ -11,7 +11,7 @@ Admin:
 6. Search events by name
 7. Update tickets
 8. Delete tickets
-9. Update user
+9. add user
 ---------------------------------
 User:
 ------

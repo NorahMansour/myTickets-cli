@@ -1,26 +1,34 @@
-# Red3lay API
+# MyTickets API
 
 ## Features
+(admin)
 1. Login
-2. Create contact
-3. Update contact
-4. Delete contact
-5. View all contacts
-6. Search contacts by name
+2. Create events
+3. Update events
+4. Delete events
+5. View all events
+6. Search events by name
+7. Update tickets
+8. Delete tickets
+9. Update user
+--------------------
+(user)
+
+1. Login
+2.  View all events
+3. Search events by name
+4. Payment
+5. Reservation
+
+
 
 ## Stack
 1. Runtime Environment: `Node.js`
 2. Language: `TypeScript`
 3. Web Server: `Fastify`
 4. ORM: `Prisma`
-5. DB: `Postgres`
+5. DB: `MongoDB atls`
 
-## Requirements
-1. At least 10 endpoints
-2. Authentication (JWT)
-3. Validation
-4. No Supabase
-5. Deployed to AWS or Heroku
 
-## Deadline
-Wednesday 29 June
+
+

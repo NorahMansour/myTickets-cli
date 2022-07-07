@@ -1,7 +1,8 @@
-# MyTickets API
+# MyTickets CLI
 
 ## Features
-(admin)
+Admin:
+-------
 1. Login
 2. Create events
 3. Update events
@@ -11,8 +12,9 @@
 7. Update tickets
 8. Delete tickets
 9. Update user
---------------------
-(user)
+---------------------------------
+User:
+------
 
 1. Login
 2.  View all events
